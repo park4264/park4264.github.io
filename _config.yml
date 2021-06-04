@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mathematics, Statistics"
-title_separator          : "-"
+title                    : "Mathematics, Statistics_Park"
+title_separator          : "Taejun Park"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
 description              : "An amazing website."
