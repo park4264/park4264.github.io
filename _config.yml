@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Mathematics, Statistics_Park"
 title_separator          : "Taejun Park"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : ""
+name                     : "Taejun Park"
 description              : "An amazing website."
 url                      : "https://park4264.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
