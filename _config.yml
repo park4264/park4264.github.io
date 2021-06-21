@@ -97,9 +97,9 @@ author:
   name             : "Taejun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**Education** \n
-  \n Seoul National University (2021.03~) \n
+  \n Seoul National University (2021.03~)
   \n M.S in Statistics \n
-  \n Kyunghee University (2015.03–2021.02) \n
+  \n Kyunghee University (2015.03–2021.02)
   \n B.S. in Mathematics"
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
@@ -283,5 +283,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: # true
       related: true
