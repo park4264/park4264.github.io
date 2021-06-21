@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "._.\n **Education** \n Seoul National University (2021.03~) \n M.S in Statistics \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics"
   location         : "Room 302, Building 25"
-  email            : "park4264@snu.ac.kr"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -117,7 +117,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/differentiable_ftn/"
 
 # Site Footer
 footer:
