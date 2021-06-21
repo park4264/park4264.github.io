@@ -96,12 +96,12 @@ analytics:
 author:
   name             : "Taejun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "._. \n
-  **Education** \n
-  Seoul National University (2021.03~) 
-  M.S in Statistics \n
-  Kyunghee University (2015.03–2021.02) 
-  B.S. in Mathematics"
+  bio              : "._. 
+  \n **Education** 
+  \n Seoul National University (2021.03~) 
+  \n M.S in Statistics 
+  \n Kyunghee University (2015.03–2021.02) 
+  \nB.S. in Mathematics"
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
   Instagram        : "https://www.instagram.com/differentiable_ftn/"
