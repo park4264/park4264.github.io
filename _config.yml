@@ -97,17 +97,14 @@ author:
   name             : "Taejun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "._.
-  E-mail
-park4264@snu.ac.kr
-
-Education
+**Education**
 Seoul National University (2021.03~)
 M.S in Statistics
 
 Kyunghee University (2015.03–2021.02)
 B.S. in Mathematics"
-  location         : "Somewhere"
-  email            :
+  location         : "Room 302, Building 25"
+  email            : "park4264@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
