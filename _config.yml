@@ -96,13 +96,7 @@ analytics:
 author:
   name             : "Taejun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  
-<<<<<<< HEAD
   bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics."
-=======
-  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics \n \n ._."
->>>>>>> parent of 98bb40d4 (Update _config.yml)
-  
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
   Instagram        : "https://www.instagram.com/differentiable_ftn/"
