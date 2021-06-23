@@ -96,11 +96,11 @@ analytics:
 author:
   name             : "Taejun Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics"
+  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics 
+  \n \n [Spatial Statistics Lab](https://limcstat.github.io/)"
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
   Instagram        : "https://www.instagram.com/differentiable_ftn/"
-  Lab              : "https://limcstat.github.io/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -120,7 +120,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/differentiable_ftn/"
-    - label: "Lab"
 
 # Site Footer
 footer:
