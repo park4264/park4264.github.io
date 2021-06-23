@@ -1,0 +1,25 @@
+From 98bb40d4ee87e2d9eca8b37bbf13d5e565dfb89c Mon Sep 17 00:00:00 2001
+From: park4264 <81501464+park4264@users.noreply.github.com>
+Date: Tue, 22 Jun 2021 00:40:05 +0900
+Subject: [PATCH] Update _config.yml
+
+---
+ _config.yml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_config.yml b/_config.yml
+index 0c27b56a..e8a4596c 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -97,7 +97,7 @@ author:
+   name             : "Taejun Park"
+   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+   
+-  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics \n \n ._."
++  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics"
+   
+   location         : "Room 302, Building 25"
+   email            : "park4264@snu.ac.kr"
+-- 
+2.30.2.windows.1
+
