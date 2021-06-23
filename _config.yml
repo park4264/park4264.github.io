@@ -100,6 +100,7 @@ author:
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
   Instagram        : "https://www.instagram.com/differentiable_ftn/"
+  Lab              : "https://limcstat.github.io/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,6 +120,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/differentiable_ftn/"
+    - label: "Lab"
 
 # Site Footer
 footer:
