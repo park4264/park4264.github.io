@@ -96,8 +96,7 @@ analytics:
 author:
   name             : "Taejun Park"
   avatar           : "/assets/images/IMG.jpg"
-  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics 
-  \n \n [<font color='dodgerblue'> Spatial Statistics Lab </font>](https://limcstat.github.io/)"
+  bio              : "**Education** \n \n Seoul National University (2021.03~) \n M.S in Statistics \n \n Kyunghee University (2015.03–2021.02) \n B.S. in Mathematics"
   location         : "Room 302, Building 25"
   email            : "park4264@snu.ac.kr"
   Instagram        : "https://www.instagram.com/differentiable_ftn/"
@@ -105,7 +104,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: "park4264@snu.ac.kr"
-    - label: "Website"
+    - label: "Spatial Statistics Lab"
       icon: "fas fa-fw fa-link"
       url: "https://limcstat.github.io/"
     - label: "Twitter"
